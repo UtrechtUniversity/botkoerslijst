@@ -1,0 +1,2 @@
+# botkoerslijst
+fetch euro koerslijst 
